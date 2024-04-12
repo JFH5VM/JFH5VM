@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JFH5VM
-- 👀 I’m interested in Angular, x86 asm, Crytography
+- 👀 I’m interested in Angular, x86 asm, Crytography, MCU programming (Cortex M4)
 - 🌱 I’m currently learning Rust
 
 <!---
