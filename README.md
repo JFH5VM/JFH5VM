@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JFH5VM and I work as a dev in the railway industry
-- 👀 I’m interested in Angular, x86 asm, Crytography, MCU programming (Cortex M4)
+- 👀 I’m interested in Angular, Reverse Engineering
 - 🌱 I’m currently learning Rust
 
 <!---
