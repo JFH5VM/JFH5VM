@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JFH5VM and I work as a dev in the railway industry
-- 👀 I’m interested in Angular, Reverse Engineering
+- 👀 I’m interested in Angular, communications engineering, reverse engineering
 - 🌱 I’m currently learning Rust
 
 <!---
